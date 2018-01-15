@@ -1,4 +1,5 @@
 Text editor for the win. pretty cool actually
+This is a change that will not merge?
 is kinda laggy
 but I think that i will 
 get used to it
