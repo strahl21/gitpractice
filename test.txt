@@ -8,3 +8,5 @@ this is a test for git merges
 tes
 test
 I changed the file, I I I changed the file...
+It automatically mergedcat test.txtcat test.txt
+Forgot about the \! character
