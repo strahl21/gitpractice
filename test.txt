@@ -4,6 +4,7 @@ is kinda laggy
 but I think that i will 
 get used to it
 test
+this is a test for git merges
 tes
 test
 I changed the file, I I I changed the file...
